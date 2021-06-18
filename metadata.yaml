@@ -1,5 +1,8 @@
 _repo: The-Master-of-Aberfeldie-Volume-III-of-3_65617
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65617-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Grant, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8949
     wikipedia: https://en.wikipedia.org/wiki/James_Grant_(1822%E2%80%931887)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65617#The-Master-of-Aberfeldie-Volume-III-of-3
 gutenberg_issued: '2021-06-14'
 gutenberg_type: Text
 identifiers:
