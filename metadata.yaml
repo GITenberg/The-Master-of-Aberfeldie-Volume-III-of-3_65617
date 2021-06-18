@@ -1,0 +1,23 @@
+_repo: The-Master-of-Aberfeldie-Volume-III-of-3_65617
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, James
+    birthdate: 1822
+    deathdate: 1887
+    gutenberg_agent_id: '8949'
+    url: http://www.gutenberg.org/2009/agents/8949
+    wikipedia: https://en.wikipedia.org/wiki/James_Grant_(1822%E2%80%931887)
+description: ''
+gutenberg_issued: '2021-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Master of Aberfeldie, Volume III (of 3)
+url: http://www.gutenberg.org/ebooks/65617
